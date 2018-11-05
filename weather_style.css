@@ -1,8 +1,28 @@
 body {
+    padding: 5px;
+    padding-bottom: 15px;
     font-family: Georgia, "Times New Roman", Times, serif;
-    font-size: 20px;
     color: #333;
     background: #efeee7;
+}
+
+main {
+    font-size: 20px;
+}
+
+h1, h2 {
+    color: rgb(58, 118, 141)
+}
+
+h4 {
+    color: rgb(66, 88, 100);
+}
+
+footer {
+    /* padding: 25px; */
+    text-align: center;
+    color: white;
+    background-color: black;
 }
 
 .navbar-brand {
@@ -14,4 +34,9 @@ body {
     width: 200px;
     height: 200px;
     margin-right: 20px;
+}
+
+.box {
+    padding: 25px;
+    background-color: white;
 }
