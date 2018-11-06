@@ -40,3 +40,14 @@ footer {
     padding: 25px;
     background-color: white;
 }
+
+.selected {
+    padding: 5px; /*check after adding images*/
+    border: 3px solid blue;
+}
+
+.viz-img {
+    width: 600px;
+    height: 400px;
+    margin-right: 20px;
+}
