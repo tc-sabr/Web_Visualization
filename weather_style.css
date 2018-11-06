@@ -25,7 +25,8 @@ footer {
     background-color: black;
 }
 
-.navbar-brand {
+.navbar-default .navbar-brand {
+    color: white;
     background-color: rgb(58, 118, 141);
 }
 
@@ -51,3 +52,7 @@ footer {
     height: 400px;
     margin-right: 20px;
 }
+
+/* .viz-box {
+    box-align: center;
+} */
