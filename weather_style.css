@@ -72,4 +72,10 @@ footer {
     .navbar {
         background-color: rgb(58,118,141);
     }
+    .navbar-default .navbar-nav li a {
+        color: white;
+    }
+    .navbar-default .navbar-nav .dropdown-menu li a {
+        color: black;
+    }
 }
